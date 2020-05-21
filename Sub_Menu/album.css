@@ -33,9 +33,10 @@ footer p {
 }
 .sub-menu{
   display: inline-flex;
+  margin-left: -30px;
 }
 .sub-menu li{
-  margin-left: 20px;
+  margin-left: 10px;
   line-height: 15px;
   padding-top: 10px;
   list-style-type: none;
